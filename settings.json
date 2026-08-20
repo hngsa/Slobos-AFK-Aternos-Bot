@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "meledak.aternos.me",
+    "port": 39664,
     "version": "",
     "try-creative": false
   },

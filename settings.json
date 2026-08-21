@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "meledak.aternos.me:39664",
+    "ip": "meledak.aternos.me",
     "port": 39664,
     "version": "",
     "try-creative": false
